@@ -22,3 +22,8 @@ SSH_ASKPASS=./myaskpass ssh-add - <<<"${PK}"
 # Check
 ssh-add -l
 </pre>
+
+### Revome
+<pre>
+ssd-add -D
+</pre>
